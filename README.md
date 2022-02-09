@@ -1,4 +1,4 @@
 # Maven Template
 
-A maven template for micro-service architecture.
+A simple maven template.
 update at 2022/2/9
